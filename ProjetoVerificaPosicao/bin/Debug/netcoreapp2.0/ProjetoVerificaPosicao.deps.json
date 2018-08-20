@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ProjetoVerificaPosicao/1.0.0": {
+        "dependencies": {
+          "VerificaPosicaoDomain": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoVerificaPosicao.dll": {}
+        }
+      },
+      "VerificaPosicaoDomain/1.0.0": {
+        "runtime": {
+          "VerificaPosicaoDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoVerificaPosicao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VerificaPosicaoDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

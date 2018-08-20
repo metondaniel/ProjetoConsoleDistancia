@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\VerificaPosicaoDomain\bin\Debug\netcoreapp2.0\VerificaPosicaoDomain.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\VerificaPosicaoDomain\bin\Debug\netcoreapp2.0\VerificaPosicaoDomain.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\VerificaPosicaoDomain\bin\Debug\netcoreapp2.0\VerificaPosicaoDomain.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\VerificaPosicaoDomain\obj\Debug\netcoreapp2.0\VerificaPosicaoDomain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\VerificaPosicaoDomain\obj\Debug\netcoreapp2.0\VerificaPosicaoDomain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\VerificaPosicaoDomain\obj\Debug\netcoreapp2.0\VerificaPosicaoDomain.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\VerificaPosicaoDomain\obj\Debug\netcoreapp2.0\VerificaPosicaoDomain.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\VerificaPosicaoDomain\obj\Debug\netcoreapp2.0\VerificaPosicaoDomain.pdb

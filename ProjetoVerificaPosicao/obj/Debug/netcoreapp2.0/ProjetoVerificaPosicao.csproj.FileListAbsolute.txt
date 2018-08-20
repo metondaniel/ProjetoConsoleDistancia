@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\bin\Debug\netcoreapp2.0\ProjetoVerificaPosicao.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\bin\Debug\netcoreapp2.0\ProjetoVerificaPosicao.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\bin\Debug\netcoreapp2.0\ProjetoVerificaPosicao.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\bin\Debug\netcoreapp2.0\ProjetoVerificaPosicao.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\bin\Debug\netcoreapp2.0\ProjetoVerificaPosicao.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\obj\Debug\netcoreapp2.0\ProjetoVerificaPosicao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\obj\Debug\netcoreapp2.0\ProjetoVerificaPosicao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\obj\Debug\netcoreapp2.0\ProjetoVerificaPosicao.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\obj\Debug\netcoreapp2.0\ProjetoVerificaPosicao.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\obj\Debug\netcoreapp2.0\ProjetoVerificaPosicao.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\bin\Debug\netcoreapp2.0\VerificaPosicaoDomain.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\bin\Debug\netcoreapp2.0\VerificaPosicaoDomain.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\obj\Debug\netcoreapp2.0\ProjetoVerificaPosicao.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ProjetoVerificaPosicao\ProjetoVerificaPosicao\obj\Debug\netcoreapp2.0\ProjetoVerificaPosicao.csproj.CopyComplete
